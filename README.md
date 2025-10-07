@@ -35,9 +35,6 @@ EduTest menggunakan serangkaian pertanyaan berbasis psikometri ringan untuk mene
 - ⚛️ **React Native + Expo SDK 54**
 - 🧩 **Expo Router** (File-based routing)
 - 💬 **TypeScript**
-- 🧠 **Zustand / Context API** untuk manajemen state
-- 💾 **AsyncStorage** untuk penyimpanan lokal hasil tes
-- 🎨 **React Native Paper / NativeWind** untuk UI dan styling
 
 ---
 
