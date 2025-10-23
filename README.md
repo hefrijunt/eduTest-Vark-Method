@@ -1,6 +1,50 @@
-# Welcome to your Expo app 👋
+# 📱 EduTest — Aplikasi Mobile Gaya Belajar (VARK Method)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**EduTest** adalah aplikasi mobile berbasis **Expo (React Native)** yang dikembangkan untuk membantu siswa dan mahasiswa mengenali **gaya belajar dominan mereka** menggunakan **metode VARK** — *Visual, Auditory, Reading/Writing,* dan *Kinesthetic*.  
+Aplikasi ini bertujuan untuk memberikan **pendekatan pembelajaran yang personal, adaptif, dan efektif**, sesuai dengan karakteristik belajar setiap individu.
+
+---
+
+## 🎯 Tujuan Aplikasi
+
+EduTest dikembangkan untuk:
+- 🧭 Membantu pengguna memahami **gaya belajar pribadi** mereka.
+- 💡 Memberikan **rekomendasi metode belajar** yang sesuai dengan hasil tes.
+- 🎓 Menjadi **alat bantu edukatif** bagi guru, dosen, dan konselor pendidikan.
+- ⚙️ Menyediakan hasil analisis yang **cepat, akurat, dan mudah dipahami**.
+
+---
+
+## 🧠 Tentang Metode VARK
+
+**VARK** adalah teori gaya belajar yang membagi preferensi individu menjadi empat kategori utama:
+
+| Tipe Gaya Belajar | Ciri Utama | Pendekatan Efektif |
+|--------------------|-------------|--------------------|
+| **Visual (V)** | Belajar melalui gambar, diagram, warna | Gunakan mind map, video, infografik |
+| **Auditory (A)** | Belajar melalui pendengaran | Diskusi, rekaman audio, podcast |
+| **Reading/Writing (R)** | Belajar melalui teks | Membaca artikel, membuat catatan |
+| **Kinesthetic (K)** | Belajar melalui praktik langsung | Eksperimen, simulasi, studi kasus |
+
+EduTest menggunakan serangkaian pertanyaan berbasis psikometri ringan untuk menentukan kombinasi dominan dari empat tipe tersebut.
+
+---
+
+## ⚙️ Teknologi yang Digunakan
+
+- ⚛️ **React Native + Expo SDK 54**
+- 🧩 **Expo Router** (File-based routing)
+- 💬 **TypeScript**
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/username/edutest.git
+   cd edutest
+
 
 ## Get started
 
